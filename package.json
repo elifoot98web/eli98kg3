@@ -1,7 +1,7 @@
 {
   "name": "eli98kg3",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Leonardo Pereira <jlcvp@github>",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -27,6 +27,7 @@
     "@capacitor/keyboard": "5.0.6",
     "@capacitor/status-bar": "5.0.6",
     "@ionic/angular": "^7.0.0",
+    "@maskito/angular": "^1.4.0",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
@@ -64,5 +65,5 @@
     "ts-node": "^8.3.0",
     "typescript": "~5.0.2"
   },
-  "description": "An Ionic project"
+  "description": "Gerador de contra-senha para elifoot 98"
 }
